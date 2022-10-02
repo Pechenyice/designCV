@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/designCV/static/css/main.0ceda7ed.css",
-    "main.js": "/designCV/static/js/main.d649cf3a.js",
-    "static/media/clio.jpg": "/designCV/static/media/clio.17780656555176b13079.jpg",
-    "static/media/childrenOnKitchen.jpg": "/designCV/static/media/childrenOnKitchen.9d2d518baf836bfe5de9.jpg",
+    "main.css": "/designCV/static/css/main.616ed0fd.css",
+    "main.js": "/designCV/static/js/main.960efa69.js",
     "static/media/StratosLCWeb-Light.ttf": "/designCV/static/media/StratosLCWeb-Light.ab5c2c0cdd99533901bc.ttf",
     "static/media/StratosLCWeb-Regular.ttf": "/designCV/static/media/StratosLCWeb-Regular.9db36b4609891e802c8e.ttf",
-    "static/media/business.jpg": "/designCV/static/media/business.61aea3dc9f6ef437bb84.jpg",
-    "static/media/carsRent.jpg": "/designCV/static/media/carsRent.77ec9623f70c8a63f242.jpg",
-    "static/media/flour.jpg": "/designCV/static/media/flour.6743dc6f1c7688dceaf8.jpg",
-    "static/media/liteManager.jpg": "/designCV/static/media/liteManager.faf38bdd2fb128b4f163.jpg",
-    "static/media/architecture.jpg": "/designCV/static/media/architecture.91bd3fb7416e9e144791.jpg",
+    "static/media/clio.jpg": "/designCV/static/media/clio.8e015532c167228639c7.jpg",
+    "static/media/deti.jpg": "/designCV/static/media/deti.7485dc6ed9ba54bf22b6.jpg",
+    "static/media/papakado.jpg": "/designCV/static/media/papakado.8b76c82def528f841239.jpg",
+    "static/media/business.jpg": "/designCV/static/media/business.8341b08df7e41581c2fa.jpg",
+    "static/media/carsRent.jpg": "/designCV/static/media/carsRent.ca0a8908fa529ecc7686.jpg",
+    "static/media/zenter.jpg": "/designCV/static/media/zenter.01ba0a8333131484dbf4.jpg",
+    "static/media/liteManager.jpg": "/designCV/static/media/liteManager.4dec9ec675640f564d65.jpg",
+    "static/media/architecture.jpg": "/designCV/static/media/architecture.00d840fa84112c4d5700.jpg",
     "index.html": "/designCV/index.html",
-    "main.0ceda7ed.css.map": "/designCV/static/css/main.0ceda7ed.css.map",
-    "main.d649cf3a.js.map": "/designCV/static/js/main.d649cf3a.js.map"
+    "main.616ed0fd.css.map": "/designCV/static/css/main.616ed0fd.css.map",
+    "main.960efa69.js.map": "/designCV/static/js/main.960efa69.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ceda7ed.css",
-    "static/js/main.d649cf3a.js"
+    "static/css/main.616ed0fd.css",
+    "static/js/main.960efa69.js"
   ]
 }
