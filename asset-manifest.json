@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/designCV/static/css/main.616ed0fd.css",
-    "main.js": "/designCV/static/js/main.960efa69.js",
+    "main.css": "/designCV/static/css/main.ebf588bd.css",
+    "main.js": "/designCV/static/js/main.3d0a8248.js",
     "static/media/StratosLCWeb-Light.ttf": "/designCV/static/media/StratosLCWeb-Light.ab5c2c0cdd99533901bc.ttf",
     "static/media/StratosLCWeb-Regular.ttf": "/designCV/static/media/StratosLCWeb-Regular.9db36b4609891e802c8e.ttf",
     "static/media/clio.jpg": "/designCV/static/media/clio.8e015532c167228639c7.jpg",
@@ -13,11 +13,11 @@
     "static/media/liteManager.jpg": "/designCV/static/media/liteManager.4dec9ec675640f564d65.jpg",
     "static/media/architecture.jpg": "/designCV/static/media/architecture.00d840fa84112c4d5700.jpg",
     "index.html": "/designCV/index.html",
-    "main.616ed0fd.css.map": "/designCV/static/css/main.616ed0fd.css.map",
-    "main.960efa69.js.map": "/designCV/static/js/main.960efa69.js.map"
+    "main.ebf588bd.css.map": "/designCV/static/css/main.ebf588bd.css.map",
+    "main.3d0a8248.js.map": "/designCV/static/js/main.3d0a8248.js.map"
   },
   "entrypoints": [
-    "static/css/main.616ed0fd.css",
-    "static/js/main.960efa69.js"
+    "static/css/main.ebf588bd.css",
+    "static/js/main.3d0a8248.js"
   ]
 }
